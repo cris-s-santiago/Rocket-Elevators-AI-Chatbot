@@ -1,0 +1,25 @@
+{
+  "name": "rocket-elevators-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node webhook.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoteTommy/RocketElevators-AI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoteTommy/RocketElevators-AI/issues"
+  },
+  "homepage": "https://github.com/CoteTommy/RocketElevators-AI#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "graphql": "^15.5.0",
+    "graphql-request": "^3.4.0"
+  }
+}
